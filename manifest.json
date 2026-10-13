@@ -1,0 +1,7 @@
+{
+  "name": "DynamiteUpgrades",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Upgrade dynamite to Strong, Super and Mega at the bullet upgrade counter, unlocked island by island. Bigger blasts, more fish.",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2305"]
+}
